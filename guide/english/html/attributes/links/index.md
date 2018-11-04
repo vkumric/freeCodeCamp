@@ -17,7 +17,7 @@ Here's a snippet that makes the phrase 'The freeCodeCamp Guide' a link:
 The link ends up looking like this: [The freeCodeCamp Guide](https://guide.freecodecamp.org)
 ### Links in a New Tab
 If you'd like your link to open in a new tab, you'll use the ``target`` attribute along with the ``"_blank"`` 
-value inside your opening ``<a>`` tag. That looks like this: 
+value inside your opening ``<a>`` tag. That looks like this:
 ```html 
 <a href="url" target="_blank">Link Text</a>
 ```
